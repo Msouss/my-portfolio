@@ -17,7 +17,7 @@ export const projects: Project[] = [
     title: "Cinema app",
     year: 2022,
     description:
-      "The Cinema app is an Android application built in Java that allows users to browse, search, and explore information about movies. The app aims to replicate the core functionalities of platforms like IMDb, offering a clean and user-friendly interface. It serves as a resource for movie enthusiasts to discover new films, check ratings, view trailers, and read reviews.",
+      "The cinema is an app using JavaFX that allows the user to selects movies and seats to reserve their order.",
     url: "https://github.com/Msouss/Java",
   },
   {
