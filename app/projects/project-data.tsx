@@ -14,7 +14,7 @@ export const projects: Project[] = [
     url: "https://github.com/Msouss/IOS-Calculator",
   },
   {
-    title: "Cinema app",
+    title: "Cinema App",
     year: 2024,
     description:
       "The cinema is an app using JavaFX that allows the user to selects movies and seats to reserve their order.",
