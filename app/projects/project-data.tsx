@@ -11,7 +11,7 @@ export const projects: Project[] = [
     year: 2024,
     description:
       "This SwiftUI Calculator project is designed to create a functional and visually appealing calculator app for iOS devices. It incorporates basic arithmetic operations and a user-friendly interface while showcasing the use of SwiftUI's declarative syntax and state management capabilities.",
-    url: "https://github.com/Msouss/Ios",
+    url: "https://github.com/Msouss/IOS-Calculator",
   },
   {
     title: "Cinema app",
