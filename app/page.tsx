@@ -22,7 +22,7 @@ export default function Page() {
 
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          Passionate Computer Science student with strengths in Python, Java, and CSS and Scrum.
+          Passionate Computer Science student with strengths in Swift, Python, Java, and CSS and Scrum.
         </p>
         <p>
           Adept at building efficient, user-friendly applications, 
